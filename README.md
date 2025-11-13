@@ -21,4 +21,4 @@
 
 
 #### buffer_pool_manager_test {#buffer-pool-manager-test}
-![Uploading buffer_pool_manager_instance.png…]()
+<img width="933" height="652" alt="buffer_pool_manager_instance" src="https://github.com/user-attachments/assets/346e20e3-0ff6-4eea-8ade-8e7ba22069d3" />
