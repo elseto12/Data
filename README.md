@@ -1,4 +1,4 @@
-<img width="989" height="617" alt="extendible_hash_table" src="https://github.com/user-attachments/assets/2eb079bb-bc8e-456d-822e-ecacf8fbf42f" /># 数据库作业
+# 数据库作业
 
 ## 跳转目录
 - [extendible_hash_test](#extendible-hash-test)
